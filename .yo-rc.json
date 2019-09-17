@@ -1,0 +1,11 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "Sample",
+      "htmlOption": "pug",
+      "cssOption": "postcss",
+      "testFramework": "none"
+    },
+    "version": "3.0.1"
+  }
+}
