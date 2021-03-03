@@ -48,7 +48,7 @@
     "minimist": "~1.2.0",
     "postcss-import": "12.0.1",
     "prettier": "~1.16.4",
-    "pug": "~2.0.4",
+    "pug": "~3.0.1",
     "rimraf": "2.6.3",
     "vinyl-buffer": "~1.0.1",
     "vinyl-source-stream": "~2.0.0",
